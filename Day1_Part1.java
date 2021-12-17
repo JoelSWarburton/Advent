@@ -5,7 +5,7 @@ public class Day1_Part1 {
     public static void main(String args[]) {
         int increaseCount = 0;
 
-        try(Scanner scan = new Scanner(Paths.get("/home/joel/IdeaProjects/advent/scr/input"))) {
+        try(Scanner scan = new Scanner(Paths.get("/home/joel/IdeaProjects/advent/src/input"))) {
             int previousDepth = 0;
 
             //read file
